@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\DateTime\Marksheet\bin\Debug\Marksheet.exe.config
+F:\CDAC\MSNET\DateTime\Marksheet\bin\Debug\Marksheet.exe
+F:\CDAC\MSNET\DateTime\Marksheet\bin\Debug\Marksheet.pdb
+F:\CDAC\MSNET\DateTime\Marksheet\obj\Debug\Marksheet.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\DateTime\Marksheet\obj\Debug\Marksheet.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\DateTime\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\DateTime\Marksheet\obj\Debug\Marksheet.exe
+F:\CDAC\MSNET\DateTime\Marksheet\obj\Debug\Marksheet.pdb

@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\DateTime\Value_Reference\bin\Debug\Value_Reference.exe.config
+F:\CDAC\MSNET\DateTime\Value_Reference\bin\Debug\Value_Reference.exe
+F:\CDAC\MSNET\DateTime\Value_Reference\bin\Debug\Value_Reference.pdb
+F:\CDAC\MSNET\DateTime\Value_Reference\obj\Debug\Value_Reference.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\DateTime\Value_Reference\obj\Debug\Value_Reference.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\DateTime\Value_Reference\obj\Debug\Value_Reference.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\DateTime\Value_Reference\obj\Debug\Value_Reference.exe
+F:\CDAC\MSNET\DateTime\Value_Reference\obj\Debug\Value_Reference.pdb

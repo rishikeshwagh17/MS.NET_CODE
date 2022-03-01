@@ -1,0 +1,12 @@
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\App2.exe.config
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\App2.exe
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\App2.pdb
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\Access_specifier_refernce_namespace.exe
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\Access_specifier_refernce_namespace.pdb
+F:\CDAC\MSNET\My_solution\App2\bin\Debug\Access_specifier_refernce_namespace.exe.config
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.csproj.CopyComplete
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.exe
+F:\CDAC\MSNET\My_solution\App2\obj\Debug\App2.pdb

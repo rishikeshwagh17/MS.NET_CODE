@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+F:\CDAC\MSNET\ClassesObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

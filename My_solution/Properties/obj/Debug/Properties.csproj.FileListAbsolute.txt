@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Properties\bin\Debug\Properties.exe.config
+F:\CDAC\MSNET\My_solution\Properties\bin\Debug\Properties.exe
+F:\CDAC\MSNET\My_solution\Properties\bin\Debug\Properties.pdb
+F:\CDAC\MSNET\My_solution\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Properties\obj\Debug\Properties.exe
+F:\CDAC\MSNET\My_solution\Properties\obj\Debug\Properties.pdb

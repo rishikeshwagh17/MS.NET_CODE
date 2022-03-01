@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Encapsulation\bin\Debug\Encapsulation.exe.config
+F:\CDAC\MSNET\My_solution\Encapsulation\bin\Debug\Encapsulation.exe
+F:\CDAC\MSNET\My_solution\Encapsulation\bin\Debug\Encapsulation.pdb
+F:\CDAC\MSNET\My_solution\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Encapsulation\obj\Debug\Encapsulation.exe
+F:\CDAC\MSNET\My_solution\Encapsulation\obj\Debug\Encapsulation.pdb

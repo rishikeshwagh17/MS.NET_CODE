@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\bin\Debug\MethodsInCSharp.exe.config
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\bin\Debug\MethodsInCSharp.exe
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\bin\Debug\MethodsInCSharp.pdb
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\obj\Debug\MethodsInCSharp.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\obj\Debug\MethodsInCSharp.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\obj\Debug\MethodsInCSharp.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\obj\Debug\MethodsInCSharp.exe
+F:\CDAC\MSNET\DateTime\MethodsInCSharp\obj\Debug\MethodsInCSharp.pdb

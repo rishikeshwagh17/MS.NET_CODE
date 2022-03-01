@@ -1,0 +1,15 @@
+F:\CDAC\MSNET\Features\Demo\bin\Debug\net6.0\Demo.exe
+F:\CDAC\MSNET\Features\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\CDAC\MSNET\Features\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\CDAC\MSNET\Features\Demo\bin\Debug\net6.0\Demo.dll
+F:\CDAC\MSNET\Features\Demo\bin\Debug\net6.0\Demo.pdb
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.dll
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.pdb
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\CDAC\MSNET\Features\Demo\obj\Debug\net6.0\ref\Demo.dll

@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\bin\Debug\Access_specifier_refernce_namespace.exe.config
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\bin\Debug\Access_specifier_refernce_namespace.exe
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\bin\Debug\Access_specifier_refernce_namespace.pdb
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\obj\Debug\Access_specifier_refernce_namespace.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\obj\Debug\Access_specifier_refernce_namespace.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\obj\Debug\Access_specifier_refernce_namespace.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\obj\Debug\Access_specifier_refernce_namespace.exe
+F:\CDAC\MSNET\My_solution\Access_specifier_refernce_namespace\obj\Debug\Access_specifier_refernce_namespace.pdb

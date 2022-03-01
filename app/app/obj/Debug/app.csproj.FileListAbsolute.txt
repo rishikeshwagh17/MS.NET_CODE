@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\app\app\bin\Debug\app.exe.config
+F:\CDAC\MSNET\app\app\bin\Debug\app.exe
+F:\CDAC\MSNET\app\app\bin\Debug\app.pdb
+F:\CDAC\MSNET\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\app\app\obj\Debug\app.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\app\app\obj\Debug\app.exe
+F:\CDAC\MSNET\app\app\obj\Debug\app.pdb

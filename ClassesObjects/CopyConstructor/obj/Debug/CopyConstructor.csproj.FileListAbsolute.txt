@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\bin\Debug\CopyConstructor.exe.config
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\bin\Debug\CopyConstructor.exe
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\bin\Debug\CopyConstructor.pdb
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\obj\Debug\CopyConstructor.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\obj\Debug\CopyConstructor.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\obj\Debug\CopyConstructor.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\obj\Debug\CopyConstructor.exe
+F:\CDAC\MSNET\ClassesObjects\CopyConstructor\obj\Debug\CopyConstructor.pdb

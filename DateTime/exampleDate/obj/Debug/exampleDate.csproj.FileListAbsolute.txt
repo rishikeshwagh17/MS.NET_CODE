@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\DateTime\exampleDate\bin\Debug\exampleDate.exe.config
+F:\CDAC\MSNET\DateTime\exampleDate\bin\Debug\exampleDate.exe
+F:\CDAC\MSNET\DateTime\exampleDate\bin\Debug\exampleDate.pdb
+F:\CDAC\MSNET\DateTime\exampleDate\obj\Debug\exampleDate.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\DateTime\exampleDate\obj\Debug\exampleDate.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\DateTime\exampleDate\obj\Debug\exampleDate.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\DateTime\exampleDate\obj\Debug\exampleDate.exe
+F:\CDAC\MSNET\DateTime\exampleDate\obj\Debug\exampleDate.pdb

@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Static_prop\bin\Debug\Static_prop.exe.config
+F:\CDAC\MSNET\My_solution\Static_prop\bin\Debug\Static_prop.exe
+F:\CDAC\MSNET\My_solution\Static_prop\bin\Debug\Static_prop.pdb
+F:\CDAC\MSNET\My_solution\Static_prop\obj\Debug\Static_prop.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Static_prop\obj\Debug\Static_prop.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Static_prop\obj\Debug\Static_prop.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Static_prop\obj\Debug\Static_prop.exe
+F:\CDAC\MSNET\My_solution\Static_prop\obj\Debug\Static_prop.pdb
