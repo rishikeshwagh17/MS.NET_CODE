@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 namespace MoreConceptsOOPs
 {
-    //singlr cast delegate point only single method only
+    //single cast delegate point only single method only
+
+    //there can be other delgates with diff signature pointing to corresponding signature method it point to
     public delegate void calc(int a, int b);
     public class Myclass 
     {
@@ -21,6 +23,15 @@ namespace MoreConceptsOOPs
             Myclass myclass = new Myclass();
             calc obj = new calc(myclass.add);
             obj(10, 20);
+
+            //multicast delegate application
+            MultiCastDelegate multiCastDelegate = new MultiCastDelegate();
+            calculation delobj = new calculation(multiCastDelegate.add);
+            delobj(10, 20);
+            //now we use += & -= operator to add & remove reference to delegate obj ref also look below
+            delobj += multiCastDelegate.sub;
+            delobj -= multiCastDelegate.add;
+            delobj(50, 2);
             Console.ReadLine();
         }
     }
