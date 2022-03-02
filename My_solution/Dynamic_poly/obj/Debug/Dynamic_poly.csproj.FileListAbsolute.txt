@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Dynamic_poly\bin\Debug\Dynamic_poly.exe.config
+F:\CDAC\MSNET\My_solution\Dynamic_poly\bin\Debug\Dynamic_poly.exe
+F:\CDAC\MSNET\My_solution\Dynamic_poly\bin\Debug\Dynamic_poly.pdb
+F:\CDAC\MSNET\My_solution\Dynamic_poly\obj\Debug\Dynamic_poly.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Dynamic_poly\obj\Debug\Dynamic_poly.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Dynamic_poly\obj\Debug\Dynamic_poly.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Dynamic_poly\obj\Debug\Dynamic_poly.exe
+F:\CDAC\MSNET\My_solution\Dynamic_poly\obj\Debug\Dynamic_poly.pdb
