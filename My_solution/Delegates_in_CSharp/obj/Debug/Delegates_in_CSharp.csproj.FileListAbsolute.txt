@@ -1,0 +1,8 @@
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\bin\Debug\Delegates_in_CSharp.exe.config
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\bin\Debug\Delegates_in_CSharp.exe
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\bin\Debug\Delegates_in_CSharp.pdb
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\obj\Debug\Delegates_in_CSharp.csproj.AssemblyReference.cache
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\obj\Debug\Delegates_in_CSharp.csproj.SuggestedBindingRedirects.cache
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\obj\Debug\Delegates_in_CSharp.csproj.CoreCompileInputs.cache
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\obj\Debug\Delegates_in_CSharp.exe
+F:\CDAC\MSNET\My_solution\Delegates_in_CSharp\obj\Debug\Delegates_in_CSharp.pdb
